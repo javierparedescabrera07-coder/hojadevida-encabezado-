@@ -30,5 +30,38 @@ body{
     transform: skewY(5deg);
     margin-top: 5;
     margin-bottom: 0;
+}
+
+.informacion{
+    width: 90%;
+    height: auto;
+    background-color: #FFC554;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.informacion .tituloinformacion{
+    color: #FFF8F0;
+    font-family: "Montserrat", sans-serif;    
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF8F0 dashed;
+}
+.informacion .tituloinfo{
+    color: #FFF8F0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+.informacion .informacioninfo{
+    color: #392f5a;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
 
 }
