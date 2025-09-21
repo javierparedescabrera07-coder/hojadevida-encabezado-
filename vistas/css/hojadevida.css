@@ -76,5 +76,15 @@ body{
     font-weight: normal;
     font-size: large;
     display: inline;
-
+}
+.informacion span{
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    background: #9DD9D2;
+    color: #FFF8F0;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 5px;
 }
