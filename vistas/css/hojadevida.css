@@ -31,7 +31,20 @@ body{
     margin-top: 5;
     margin-bottom: 0;
 }
-
+.name .img{
+    position: absolute;
+    top: 18%;
+    right: 5%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    transform: skewY(7deg);
+    overflow: hidden;
+}
+.name .img img{
+    width: 200px;
+    height: 320px;
+}
 .informacion{
     width: 90%;
     height: auto;
