@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #FFF8F0;
+}
+.name{
+    width: 100%;
+    height: 300px;
+    background: #FFC554;
+    transform: skewY(-5deg);
+}
+.name .content{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+.name .content .p-1{
+    color: #FFF8F0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 55px;
+    transform: skewY(5deg);
+    margin-bottom: 0;
+}
+.name .content .p-2{
+    color: #FFF8F0;
+    font-family: "Montserrat", sans-serif;    
+    font-size: 27px;
+    transform: skewY(5deg);
+    margin-top: 5;
+    margin-bottom: 0;
+
+}
